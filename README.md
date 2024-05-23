@@ -1,5 +1,4 @@
 # Online-Code-Compiler-and-Judging-System
-This project is a comprehensive online platform for compiling and executing code in various programming languages. It also provides a robust judging system for evaluating code submissions, making it ideal for programming contests, coding challenges, and educational purposes.
 ## 2.0 BOOTSTRAP JS PHILOSOPHY
 These are the high-level design rules which guide the development of Bootstrap's plugin apis.
 
